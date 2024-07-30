@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: mlprojectnew
-Version: 0.1
-Author: Amit
-Author-email: guruamit5@gmail.com
-Requires-Dist: panda
-Requires-Dist: numpy
-Requires-Dist: seaborn

@@ -1,8 +1,0 @@
-README.md
-setup.py
-mlprojectnew.egg-info/PKG-INFO
-mlprojectnew.egg-info/SOURCES.txt
-mlprojectnew.egg-info/dependency_links.txt
-mlprojectnew.egg-info/requires.txt
-mlprojectnew.egg-info/top_level.txt
-src/__init__.py
